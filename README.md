@@ -1,3 +1,3 @@
-# gittest
+# GitTest
 
-gitの操作を練習する
+gitの操作を練習しながら学ぶ
